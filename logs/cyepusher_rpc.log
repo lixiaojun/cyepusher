@@ -1,0 +1,164 @@
+('127.0.0.1', 47394) connected
+('127.0.0.1', 47394) --> '{"jsonrpc": "2.0", "method": "join", "params": ["lixioajun"], "id": 0}'
+('127.0.0.1', 47394) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47394) close
+('127.0.0.1', 47395) connected
+('127.0.0.1', 47395) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47395) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47395) close
+('127.0.0.1', 47396) connected
+('127.0.0.1', 47396) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47396) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47396) close
+('127.0.0.1', 47397) connected
+('127.0.0.1', 47397) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47397) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47397) close
+('127.0.0.1', 47398) connected
+('127.0.0.1', 47398) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chenli"], "id": 0}'
+('127.0.0.1', 47398) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47398) close
+('127.0.0.1', 47399) connected
+('127.0.0.1', 47399) --> '{"jsonrpc": "2.0", "method": "join", "params": ["guqi"], "id": 0}'
+('127.0.0.1', 47399) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47399) close
+('127.0.0.1', 47400) connected
+('127.0.0.1', 47400) --> '{"jsonrpc": "2.0", "method": "join", "params": ["lixioajun"], "id": 0}'
+('127.0.0.1', 47400) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47400) close
+('127.0.0.1', 47401) connected
+('127.0.0.1', 47401) --> '{"jsonrpc": "2.0", "method": "join", "params": ["guqi"], "id": 0}'
+('127.0.0.1', 47401) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47401) close
+('127.0.0.1', 47402) connected
+('127.0.0.1', 47402) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chaiyuan"], "id": 0}'
+('127.0.0.1', 47402) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47402) close
+('127.0.0.1', 47403) connected
+('127.0.0.1', 47403) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47403) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47403) close
+('127.0.0.1', 47404) connected
+('127.0.0.1', 47404) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chenli"], "id": 0}'
+('127.0.0.1', 47404) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47404) close
+('127.0.0.1', 47405) connected
+('127.0.0.1', 47405) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47405) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47405) close
+('127.0.0.1', 47406) connected
+('127.0.0.1', 47406) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chenli"], "id": 0}'
+('127.0.0.1', 47406) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47406) close
+('127.0.0.1', 47407) connected
+('127.0.0.1', 47407) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47407) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47407) close
+('127.0.0.1', 47408) connected
+('127.0.0.1', 47408) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47408) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47408) close
+('127.0.0.1', 47410) connected
+('127.0.0.1', 47410) --> '{"jsonrpc": "2.0", "method": "join", "params": ["lixioajun"], "id": 0}'
+('127.0.0.1', 47410) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47410) close
+('127.0.0.1', 47411) connected
+('127.0.0.1', 47411) --> '{"jsonrpc": "2.0", "method": "join", "params": ["lixioajun"], "id": 0}'
+('127.0.0.1', 47411) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47411) close
+('127.0.0.1', 47412) connected
+('127.0.0.1', 47412) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chenli"], "id": 0}'
+('127.0.0.1', 47412) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47412) close
+('127.0.0.1', 47413) connected
+('127.0.0.1', 47413) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chaiyuan"], "id": 0}'
+('127.0.0.1', 47413) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47413) close
+('127.0.0.1', 47414) connected
+('127.0.0.1', 47414) --> '{"jsonrpc": "2.0", "method": "join", "params": ["guqi"], "id": 0}'
+('127.0.0.1', 47414) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47414) close
+('127.0.0.1', 47415) connected
+('127.0.0.1', 47415) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47415) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47415) close
+('127.0.0.1', 47416) connected
+('127.0.0.1', 47416) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47416) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47416) close
+('127.0.0.1', 47418) connected
+('127.0.0.1', 47418) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47418) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47418) close
+('127.0.0.1', 47420) connected
+('127.0.0.1', 47420) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47420) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47420) close
+('127.0.0.1', 47421) connected
+('127.0.0.1', 47421) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47421) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47421) close
+('127.0.0.1', 47422) connected
+('127.0.0.1', 47422) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chenli"], "id": 0}'
+('127.0.0.1', 47422) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47422) close
+('127.0.0.1', 47423) connected
+('127.0.0.1', 47423) --> '{"jsonrpc": "2.0", "method": "join", "params": ["chaiyuan"], "id": 0}'
+('127.0.0.1', 47423) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47423) close
+('127.0.0.1', 47424) connected
+('127.0.0.1', 47424) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47424) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47424) close
+('127.0.0.1', 47425) connected
+('127.0.0.1', 47425) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47425) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47425) close
+('127.0.0.1', 47426) connected
+('127.0.0.1', 47426) --> '{"jsonrpc": "2.0", "method": "join", "params": ["qianjie"], "id": 0}'
+('127.0.0.1', 47426) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47426) close
+('127.0.0.1', 47427) connected
+('127.0.0.1', 47427) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47427) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47427) close
+('127.0.0.1', 47428) connected
+('127.0.0.1', 47428) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47428) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47428) close
+('127.0.0.1', 47429) connected
+('127.0.0.1', 47429) --> '{"jsonrpc": "2.0", "method": "join", "params": ["guqi"], "id": 0}'
+('127.0.0.1', 47429) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47429) close
+('127.0.0.1', 47430) connected
+('127.0.0.1', 47430) --> '{"jsonrpc": "2.0", "method": "join", "params": ["huige"], "id": 0}'
+('127.0.0.1', 47430) <-- '{"jsonrpc": "2.0", "result": "rpc say: success! ", "id": 0}'
+('127.0.0.1', 47430) close
+('127.0.0.1', 47456) connected
+('127.0.0.1', 47456) --> '{"jsonrpc": "2.0", "method": "echo", "params": ["http://www.taobao.com"], "id": 0}'
+('127.0.0.1', 47456) <-- '{"jsonrpc": "2.0", "result": "Hello world!", "id": 0}'
+('127.0.0.1', 47456) close
+('127.0.0.1', 47457) connected
+('127.0.0.1', 47457) --> '{"jsonrpc": "2.0", "method": "echo", "params": ["http://www.baidu.com"], "id": 0}'
+('127.0.0.1', 47457) <-- '{"jsonrpc": "2.0", "result": "Hello world!", "id": 0}'
+('127.0.0.1', 47457) close
+('127.0.0.1', 47458) connected
+('127.0.0.1', 47458) --> '{"jsonrpc": "2.0", "method": "echo", "params": ["http://amazon.com"], "id": 0}'
+('127.0.0.1', 47458) <-- '{"jsonrpc": "2.0", "result": "Hello world!", "id": 0}'
+('127.0.0.1', 47458) close
+('127.0.0.1', 47459) connected
+('127.0.0.1', 47459) --> '{"jsonrpc": "2.0", "method": "echo", "params": ["http://ibm.com"], "id": 0}'
+('127.0.0.1', 47459) <-- '{"jsonrpc": "2.0", "result": "Hello world!", "id": 0}'
+('127.0.0.1', 47459) close
+('127.0.0.1', 47460) connected
+('127.0.0.1', 47460) --> '{"jsonrpc": "2.0", "method": "echo", "params": ["http://apple.com"], "id": 0}'
+('127.0.0.1', 47460) <-- '{"jsonrpc": "2.0", "result": "Hello world!", "id": 0}'
+('127.0.0.1', 47460) close
+('127.0.0.1', 47461) connected
+('127.0.0.1', 47461) --> '{"jsonrpc": "2.0", "method": "echo", "params": ["http://qq.com"], "id": 0}'
+('127.0.0.1', 47461) <-- '{"jsonrpc": "2.0", "result": "Hello world!", "id": 0}'
+('127.0.0.1', 47461) close
+('127.0.0.1', 47462) connected
+('127.0.0.1', 47462) --> '{"jsonrpc": "2.0", "method": "echo2", "params": ["http://www.baidu.com", "682282_0"], "id": 0}'
+('127.0.0.1', 47462) <-- '{"jsonrpc": "2.0", "error": {"code":-32601, "message": "Method not found."}, "id": 0}'
+('127.0.0.1', 47462) close

@@ -26,6 +26,7 @@ class ProductRow(row.RowObject):
     
 productReflector = SQLReflector(giftDBpoool, [ProductRow])
 
+
 class Task(object):
     def __init__(self, name):
         self.name = name

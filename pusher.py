@@ -8,7 +8,7 @@ from libs import jsonrpc
 from libs.daemon import Daemon
 from libs.threadpool import ThreadPool, TaskQueue, ThreadPoolManager, \
     LoadBalancingThread
-from task import Task
+from tasks.task import Task
 import sys
 
 class CyeDaemon(Daemon):

@@ -4,12 +4,13 @@ Created on 2011-12-7
 
 @author: lixiaojun
 '''
+from jobs.task import Task
 from libs import jsonrpc
 from libs.daemon import Daemon
 from libs.threadpool import ThreadPool, TaskQueue, ThreadPoolManager, \
     LoadBalancingThread
-from tasks.task import Task
 import sys
+
 
 class CyeDaemon(Daemon):
     def __init__(self, pidfile='pusher.pid', stdin='/dev/null', \

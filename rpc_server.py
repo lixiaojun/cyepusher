@@ -4,31 +4,22 @@ Created on 2011-11-28
 
 @author: lixiaojun
 '''
+from jobs.task import CyeTask
 from libs import jsonrpc
 from libs.cyetools import logger
 from libs.threadpool import ThreadPool, TaskQueue, ThreadPoolManager, \
     LoadBalancingThread
 
 
-
-class Task(object):
-    def __init__(self, name):
-        self.name = name
-        
-    def __call__(self):
-        say = 'Hello, %s' % self.name
-        print say
-        logger.info('Task say: %s' % say)
-
 def echo(self):
     return 'Hello world!'
 
-def join(name):
-    if name is None:
-        name = 'cye'
+def join(sid):
+    if sid is None:
+        sid = 'cye'
         
     queue = TaskQueue.getInstance()
-    queue.addTask(Task(name))
+    queue.addTask(CyeTask(sid))
     return "rpc say: success! "
 
 

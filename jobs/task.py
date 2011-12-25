@@ -4,27 +4,11 @@ Created on 2011-12-8
 
 @author: lixiaojun
 '''
-from libs.cyetools import logger, giftDBpoool
-from twisted.enterprise import row
-from twisted.enterprise.sqlreflector import SQLReflector
+from jobs.models import cyetbReflector
+from libs.cyetools import logger
+from twisted.enterprise import reflector
 
-class ProductRow(row.RowObject):
-    rowColumns = [("id", "int"),
-                  ("key", "varchar"),
-                  ("title", "varchar"),
-                  ("url", "varchar"),
-                  ("name", "varchar"),
-                  ("add_time", "varchar"),
-                  ("image", "varchar"),
-                  ("origin_image_url", "varchar"),
-                  ("producer", "varchar"),
-                  ("production_place", "varchar"),
-                  ("gross_weight", "varchar"),
-                  ("status", "varchar")]
-    rowKeyColumns = [("key", "varchar")]
-    rowTableName = "product"
-    
-productReflector = SQLReflector(giftDBpoool, [ProductRow])
+
 
 
 class Task(object):
@@ -35,3 +19,15 @@ class Task(object):
         say = 'Hello, %s' % self.name
         print say
         logger.info('Task say: %s' % say)
+        
+class CyeTask(object):
+    def __init_(self, id):
+        self.id = id;
+    
+    def __call__(self):
+        info = 'Fetch cye data by id = 1'
+        print info
+        logger.info('Task: '+info)
+        d = cyetbReflector.loadObjectsFrom('cye_tb', whereClause=[("id", reflector.EQUAL, self.id)])
+        print d
+        

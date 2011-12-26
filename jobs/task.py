@@ -4,7 +4,7 @@ Created on 2011-12-8
 
 @author: lixiaojun
 '''
-from jobs.models import cyetbReflector
+from jobs.models import cyeTbReflector
 from libs.cyetools import logger
 from twisted.enterprise import reflector
 
@@ -28,6 +28,6 @@ class CyeTask(object):
         info = 'Fetch cye data by id = 1'
         print info
         logger.info('Task: '+info)
-        d = cyetbReflector.loadObjectsFrom('cye_tb', whereClause=[("id", reflector.EQUAL, self.id)])
+        d = cyeTbReflector.loadObjectsFrom('cye_tb', whereClause=[("id", reflector.EQUAL, self.id)])
         print d
         

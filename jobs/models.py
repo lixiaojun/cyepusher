@@ -13,7 +13,7 @@ class ProductRow(row.RowObject):
                   ("title", "varchar"),
                   ("url", "varchar"),
                   ("name", "varchar"),
-                  ("add_time", "varchar"),
+                  ("add_time", "datetime"),
                   ("image", "varchar"),
                   ("origin_image_url", "varchar"),
                   ("producer", "varchar"),
@@ -32,8 +32,8 @@ class CyeTbRow(row.RowObject):
                   ("product_img_url", "varchar"),
                   ("product_img", "varchar"),
                   ("detail", "varchar"),
-                  ("utime", "datetime")]
-    rowKeyColumns = [("key", "varchar")]
+                  ("utime", "time")]
+    rowKeyColumns = [("id", "int4")]
     rowTableName = "cye_tb"
     
 class CyePriceTbRow(row.RowObject):
@@ -42,7 +42,7 @@ class CyePriceTbRow(row.RowObject):
                   ("price", "varchar"),
                   ("price_img_url", "varchar"),
                   ("product_img_url", "varchar"),
-                  ("ctime", "datetime")]
+                  ("ctime", "time")]
     rowKeyColumns = [("id", "int4")]
     rowTableName = "cye_price_tb"
 
@@ -50,7 +50,7 @@ class CyeJobTbRow(row.RowObject):
     rowColumns = [("id", "int"),
                   ("job", "text"),
                   ("status", "varchar"),
-                  ("ctime", "datetime")]
+                  ("ctime", "time")]
     rowKeyColumns = [("id", "int4")]
     rowTableName = "cye_job_tb"
     
